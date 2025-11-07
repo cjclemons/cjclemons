@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Carl J. Clemons
 ========================================================================================================================================
 
-Frontend Developer
+Software Engineer
 ------------------
 
-I have been learning to code after switching careers from civil engineering. I am a passionate, self-motivated, and driven Frontend Developer aiming to expand his knowledge in programming by honing my current skills through daily practice. Eventually I hope to learn more programming languages like Python, C#, Mojo, and Rust. For now, I am proficient in HTML, CSS, Javascript, React, Nextjs, Firebase, Redux, and more.
+I have been learning to code after switching careers from civil engineering. I am a passionate, self-motivated, and driven Software Engineer aiming to expand his knowledge in programming by honing my current skills through daily practice. Eventually I hope to learn more programming languages like Python, C#, Mojo, and Rust. For now, I am proficient in HTML, CSS, Javascript, React, Nextjs, Firebase, Redux, and more.
 
 * 🌍  I'm based in Rock Hill, South Carolina
 * ✉️  You can contact me at [carlj.clemons487@gmail.com](mailto:carlj.clemons487@gmail.com)
