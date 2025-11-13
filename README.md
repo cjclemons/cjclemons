@@ -8,7 +8,7 @@ I have been learning to code after switching careers from civil engineering. I a
 
 * 🌍  I'm based in Rock Hill, South Carolina
 * ✉️  You can contact me at [carlj.clemons487@gmail.com](mailto:carlj.clemons487@gmail.com)
-* 🧠  I'm currently learning Typescript
+* 🧠  I'm currently learning Python
 * 👥  I'm looking to collaborate on any project big or small
 * 💬  Ask me about In my spare time, I like to exercise, do martial arts, and read
 
